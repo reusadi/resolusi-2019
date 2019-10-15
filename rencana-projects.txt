@@ -5,5 +5,6 @@ RENCANA PROJECTS 2019
 - Membuat Project Sosial Digital BantuinDong
 - Membuat Project Web Travel
 - Membuat Project Mobile Travel App
+- Membuat Project Mobile Football Player Profile App
 - Membuat Project ReactJs Restaurant App
 - Membuat Project PHP Framework Laravel Perpustakaan
