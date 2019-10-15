@@ -1,0 +1,6 @@
+RENCANA PROJECTS 2019
+- Membuat Project PHP Native Online Shop
+- Membuat Project PHP Framework Codeigniter Online Shop
+- Membuat Project Sosial Digital Panti Online
+- Membuat Project Sosial Digital BantuinDong
+- Membuat Project Web Travel
