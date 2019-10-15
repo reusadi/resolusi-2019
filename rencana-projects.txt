@@ -4,3 +4,4 @@ RENCANA PROJECTS 2019
 - Membuat Project Sosial Digital Panti Online
 - Membuat Project Sosial Digital BantuinDong
 - Membuat Project Web Travel
+- Membuat Project Mobile Travel App
